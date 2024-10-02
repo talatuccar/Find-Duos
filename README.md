@@ -1,3 +1,3 @@
-Mobile version is available.
-APK
-https://drive.google.com/file/d/1QP_etyHFDPRKe5g_I6BmUxlaVHYoaTYq/view?usp=drive_link
+## Find Duos
+Bu projeye ait APK dosyasını [buradan](https://github.com/talatuccar/Find-Duos/releases/tag/v1.0.0) indirebilirsiniz.
+
